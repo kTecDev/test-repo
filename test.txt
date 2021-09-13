@@ -1,1 +1,14 @@
 Nu kan je dus git gebruiken
+
+Stel je wilt je repository updaten
+pas je dus zoals dit een file aan
+
+dan doe je eerst 
+
+git add .
+>
+git commit -m 'updated file test'
+> 
+git push
+
+Probeer maar
